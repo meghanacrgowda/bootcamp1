@@ -51,7 +51,7 @@ var team5 ={
     goal:[],
     score:0
 };
-var team5 ={
+var team6 ={
     name:"LiverPool",
     goal:[],
     score:0
