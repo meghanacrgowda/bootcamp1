@@ -60,22 +60,17 @@ body{
     border-radius: 25px;
     font-size: large;
     background: linear-gradient(135deg,#c02425,#f0cb35);
-    width: 100px;
+    width: 200px;
     color:white;
     padding: 10px;
     margin-top:50px;
     margin-bottom:-50px;
     outline:none;
 }
-#strike-button-2{
-    border: none;
-    border-radius:25px;
-    width: 300px;
+#result{
     margin-top: 50px;
-    margin-bottom: -50px;
-    font-size: large;
-    color: white;
-    background: linear-gradient(135deg,#c02425,#f0cb35);
-    padding: 10px;
-    outline: none;
+    background: #c02425;
+    text-transform: uppercase;
+    font-size: xx-large;
+    font-weight: 700;
 }
